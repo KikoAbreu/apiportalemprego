@@ -1,13 +1,13 @@
-package com.example.apibanco;
+package com.portal.emprego;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApibancoApplication {
+public class PortalEmprego {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApibancoApplication.class, args);
+		SpringApplication.run(PortalEmprego.class, args);
 	}
 
 }
